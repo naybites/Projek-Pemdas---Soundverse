@@ -12,6 +12,19 @@ Soundverse is a simple music application that allows users to play, pause, and m
 - **music_library.py**: Manages the music library.
 - **player.py**: Contains logic for controlling music playback.
 
+## 🎵 Data Musik
+
+File musik.csv berisi daftar lagu yang digunakan dalam proyek pemutar musik.
+
+## Format Kolom
+- TITLE: Judul lagu
+- ARTIST: Nama artis
+- DURATION: Durasi dalam detik
+- GENRE: Genre musik
+- FILEPATH: Nama file lokal (tidak diunggah ke GitHub)
+
+⚠ File MP3 tidak diunggah karena alasan hak cipta.
+
 ## Setup Instructions
 
 1. Clone the repository:
